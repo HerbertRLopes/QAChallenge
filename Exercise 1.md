@@ -57,7 +57,13 @@ It should input the title "Available Batches" for user know the batches they nee
  Example: User can recover the password by email.
  
 
- ## 9 - 
+ ## 9 - There's a mistranslation in the QT21  formula
 
+The formula appears with a little mistraslation and should be changed for:
+
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```
 
 
