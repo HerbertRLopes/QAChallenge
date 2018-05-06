@@ -9,7 +9,6 @@ author: Herbert Lopes
 
 
 
-
 ![progress bar](https://user-images.githubusercontent.com/5126039/39676719-9f44b162-5145-11e8-97e9-ba48851ee651.jpg)
 
 
