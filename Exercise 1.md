@@ -30,7 +30,7 @@ severity, and darkest blue = Critical severity). But to allow a better view is n
 
 ## 4 - The usability of the fluency bar must be improved
 
-When user open the Annotation Guideline is explained what to do after review all annotations, but the usability that is shown is not ok. IS possible to creat a new interface for this progress, like using five stars and some questions to user respond with "YEs" Or "No": 
+When user open the Annotation Guideline is explained what to do after review all annotations, but the usability that is shown is not ok. IS possible to creat a new interface for this progress, like using five stars and some questions to user respond with "Yes" Or "No": 
 
 Examples of questions: 
 ```
@@ -63,13 +63,6 @@ It should input the title "Available Batches" for user know the batches they nee
  ```
 
 
- ## 9 - There's a mistranslation in the QT21  formula
 
-The formula appears with a little mistraslation and should be changed for:
-
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
 
 
