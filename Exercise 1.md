@@ -41,8 +41,23 @@ A Guideline must contain all the necessary infomrations for user know how to per
 
 ## 6 - There's no explanation when user report an Annotation
 
+There's no default rules for user report an annotation. When is possible and in what cases is necessary to report ? 
+After report, why is not possible to edit and what happens with the annotations after being reported ?
+All these questions should appears in the Guideline in order to user doesnt make mistakes when performing a review. 
 
+## 7 - List of batches without the title on menu
 
+In page three of Guideline we can see that the images that represents the main menu appears only with the title in options "Created" (the date it was created), "Progress" (amount of tasks you still need to annotate to finish the batch). 
+It should input the title "Available Batches" for user know the batches they need to review.
+
+ ## 8 - Is necessary implementate a field for user recover the password
+ 
+ In case the user forget the password theres no field to recover the password in a easy and quickly way. And this information is not shown in the Guideline with the explanation what user do in this case. This is necessary because sometimes the users doesnt save they password in the computer and eventually forgetting this information.
+ 
+ Example: User can recover the password by email.
+ 
+
+ ## 9 - 
 
 
 
