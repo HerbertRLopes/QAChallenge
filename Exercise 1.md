@@ -31,7 +31,11 @@ severity, and darkest blue = Critical severity). But to allow a better view is n
 ## 4 - The usability of the fluency bar must be improved
 
 When user open the Annotation Guideline is explained what to do after review all annotations, but the usability that is shown is not ok. IS possible to creat a new interface for this progress, like using five stars and some questions to user respond with "YEs" Or "No": 
-Examples of questions: "Do you consider the text translator a good professional?"
+
+Examples of questions: 
+```
+"Do you consider the text translator a good professional?"
+```
 
 All this question will help Unbabel to select better professionals and detect possible problems with the translators.
 
@@ -54,8 +58,10 @@ It should input the title "Available Batches" for user know the batches they nee
  
  In case the user forget the password theres no field to recover the password in a easy and quickly way. And this information is not shown in the Guideline with the explanation what user do in this case. This is necessary because sometimes the users doesnt save they password in the computer and eventually forgetting this information.
  
+ ```
  Example: User can recover the password by email.
- 
+ ```
+
 
  ## 9 - There's a mistranslation in the QT21  formula
 
