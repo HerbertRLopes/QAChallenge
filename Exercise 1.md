@@ -25,10 +25,22 @@ To keep always the same standard in the aplication the progress bar must continu
 ## 3 - All colors of the severities should be diferent, not only blue 
 
 Currently the Annotation Guideline explain that the Severities appears in blue tonality (lighter blue= Minor severity, darker blue= Major
-severity, and darkest blue = Critical severity). But to a better views is necessary to have a diference in the colors using for example Green for Minor Severity, Yellow for MAjor severity and Red for a critical Severity. 
+severity, and darkest blue = Critical severity). But to allow a better view is necessary to have a difference in the colors using for example Green for Minor Severity, Yellow for Major severity and Red for a critical Severity. 
 
 
-## 4 - 
+## 4 - The usability of the fluency bar must be improved
+
+When user open the Annotation Guideline is explained what to do after review all annotations, but the usability that is shown is not ok. IS possible to creat a new interface for this progress, like using five stars and some questions to user respond with "YEs" Or "No": 
+Examples of questions: "Do you consider the text translator a good professional?"
+
+All this question will help Unbabel to select better professionals and detect possible problems with the translators.
+
+## 5 - There's no explanation about the count time that appears in the Annotation Tools
+
+A Guideline must contain all the necessary infomrations for user know how to perform the work in a better way. Implement this information can help user utilize his time correctly.
+
+## 6 - There's no explanation when user report an Annotation
+
 
 
 
