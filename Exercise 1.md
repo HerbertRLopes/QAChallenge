@@ -63,18 +63,7 @@ It should input the title "Available Batches" for user know the batches they nee
  ```
 
 
-==================
-
----
-title: Spec out
-description: Write the Functional Analysis spec that would be given to a developer for the login/signup page and mechanism
-author: Herbert Lopes
 
 
----
-
-
-![thumbnail_cropped_2b](https://user-images.githubusercontent.com/5126039/39710879-13357128-51ec-11e8-9fa7-34ce00a99ac3.png)| 
-----------------------------------------------------------------------------------------------------------------------------|
 
 
