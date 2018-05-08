@@ -119,12 +119,12 @@ This part of the document inform the controls description to work in each part o
  Textbox supports all character formats (letter, number and symbols)
     
 ###  5.2 Field Password 
-Textbox with maximum 100 chars [Note: 100 is maximum allowed password length according the spec], empty by default.
-Registered user  – ‘Enter Password characters’.
-Textbox supports all character formats (letter, number and symbols)
-Password must be at least six characters.
-When user types password then display ‘*’ instead of entered characters.
-Checkbox ‘Show Password’. It can be either Select or Unselected. Unselected  –  by default. So, if it is selected, then show password without ‘*’.
+ Textbox with maximum 100 chars [Note: 100 is maximum allowed password length according the spec], empty by default.
+ Registered user  – ‘Enter Password characters’.
+ Textbox supports all character formats (letter, number and symbols).
+ Password must be at least six characters.
+ When user types password then display ‘*’ instead of entered characters.
+ Checkbox ‘Show Password’. It can be either Select or Unselected. Unselected  –  by default. So, if it is selected, then show password without ‘*’.
       
 ### 5.3 Acess Main Screen
 User access the Main screen by clicking in 'Enter' button. [Note: User has a valid  regitered Login and Password]
