@@ -95,6 +95,8 @@ This document specifies the requirements of the Annotation Tools providing devel
    2.2.6 When the user clicks ‘Register’ button, an e-mail must be sent to the site administrator to validate the details. 
    2.2.7 Upon activation, an e-mail must be sent to the e-mail id provided at the time of registration informing that the id is activated along with the initial (one-time) password for log in.
 
+![registration](https://user-images.githubusercontent.com/5126039/39733944-6c185814-524b-11e8-9792-72945149e84c.png)
+
 
 ## 3.0 System Availability
 
@@ -129,15 +131,31 @@ This part of the document inform the controls description to work in each part o
 ### 5.3 Acess Main Screen
     5.3.1 User access the Main screen by clicking in 'Enter' button. [Note: User has a valid  regitered Login and Password]
        
-### 5.4 Button Log in
-     5.4.1 Button 'Log in ' to user access the main screen by clicking the button. [Note: User has a valid  regitered Login and Password]
+### 5.4 Button Sing  in
+     5.4.1 Button 'Sing in ' to user access the main screen by clicking the button. [Note: User has a valid  regitered Login and Password]
        
+   ![sing in](https://user-images.githubusercontent.com/5126039/39734034-d93aecae-524b-11e8-9a0c-19fec934f3d5.png)
+
 ###  5.5 Error Messages
-    5.5.1 If user iforms a incorrect Email a red error message is displayed below the title. [Note: <‘Invalid e-mail >]
+    5.5.1 If user iforms a incorrect Email a red error message is displayed below the title.  [Note: system does not tell real reason to avoid hacking]
        
    ![errormessage](https://user-images.githubusercontent.com/5126039/39732956-a389303e-5246-11e8-8c26-050c4a6e6f04.png)
      
     5.5.2 If user iforms a correct Email with an incorrect Password a red error message is displayed below the title. [Note: <‘Invalid PAssword >]
+    
+    5.5.3 If user fill the fields with a valid Email and Password, but an error occurs, then a red error message is displayed: 'Please try again and if error still occurs contact the Administrator'
+    
+ ###  5.6 Correct Login
+ 
+        5.6.1 If all informations are correctly the Main Screen is displayed correctly.
+        
+   ![mainscreen](https://user-images.githubusercontent.com/5126039/39733984-9ded35d0-524b-11e8-8d8d-6e5167840d74.png)
+
+        
+        
+    
+    
+  
        
        
        
