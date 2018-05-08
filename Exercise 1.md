@@ -91,9 +91,9 @@ This document specifies the requirements of the Annotation Tools providing devel
     2.2.4 The registration page must contain at least these below data elements: 		
 
    
-   2.2.5 When the user fills in the information, it must be validated to ensure no junk data is being input. 
-   2.2.6 When the user clicks ‘Register’ button, an e-mail must be sent to the site administrator to validate the details. 
-   2.2.7 Upon activation, an e-mail must be sent to the e-mail id provided at the time of registration informing that the id is activated along with the initial (one-time) password for log in.
+    2.2.5 When the user fills in the information, it must be validated to ensure no junk data is being input. 
+    2.2.6 When the user clicks ‘Register’ button, an e-mail must be sent to the site administrator to validate the details. 
+    2.2.7 Upon activation, an e-mail must be sent to the e-mail id provided at the time of registration informing that the id is activated along with the initial (one-time) password for log in.
 
 ![registration](https://user-images.githubusercontent.com/5126039/39733944-6c185814-524b-11e8-9792-72945149e84c.png)
 
