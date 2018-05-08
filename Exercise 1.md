@@ -95,8 +95,9 @@ This document specifies the requirements of the Annotation Tools providing devel
     2.2.6 When the user clicks ‘Register’ button, an e-mail must be sent to the site administrator to validate the details. 
     2.2.7 Upon activation, an e-mail must be sent to the e-mail id provided at the time of registration informing that the id is activated along with the initial (one-time) password for log in.
 
-Email will look like this:
-![registration](https://user-images.githubusercontent.com/5126039/39733944-6c185814-524b-11e8-9792-72945149e84c.png)
+ Email will look like this:
+
+ ![registration](https://user-images.githubusercontent.com/5126039/39733944-6c185814-524b-11e8-9792-72945149e84c.png)
 
 
 ## 3.0 System Availability
@@ -107,8 +108,8 @@ Email will look like this:
 ## 4.0 UI mockup
 
 
-Login Screen may look like this:  
-![login](https://user-images.githubusercontent.com/5126039/39731311-59b92bde-523d-11e8-914b-9185329b608b.png)
+ Login Screen may look like this:  
+ ![login](https://user-images.githubusercontent.com/5126039/39731311-59b92bde-523d-11e8-914b-9185329b608b.png)
 
 
 ## 5.0 Controls description
