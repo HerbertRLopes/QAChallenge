@@ -67,12 +67,13 @@ It should input the title "Available Batches" for user know the batches they nee
 
 =========
 
----
-title: 1.2 Spec out
-description: GWrite the Functional Analysis spec that would be given to a developer for the login/signup page and mechanism.
-author: Herbert Lopes
 
----
+
+|title|description|author|
+|---|---|---|
+|1.2 Spec out|GWrite the Functional Analysis spec that would be given to a developer for the login/signup page and mechanism.|Herbert Lopes|
+
+
 
 ## 1.0 INTRODUCTION
 This document specifies the requirements of the Annotation Tools providing developers and testers with the necessary information for the design and implementation to perform system testing and approval.
@@ -106,5 +107,30 @@ This document specifies the requirements of the Annotation Tools providing devel
 Login Screen   
 ![login](https://user-images.githubusercontent.com/5126039/39731311-59b92bde-523d-11e8-914b-9185329b608b.png)
 
+
+## 4.0 Controls description
+    This part of the document inform the controls description to work in each part of the Login screen.
+    
+    4.1 Field E-mail Address
+      Textbox with maximum 320 chars [Note: 320 is maximum allowed email length according the spec], empty by default.
+      Registered user  – ‘Enter email address’.
+      Textbox supports all character formats (letter, number and symbols)
+    
+    4.2 Field Password 
+      Textbox with maximum 100 chars [Note: 100 is maximum allowed password length according the spec], empty by default.
+      Registered user  – ‘Enter Password characters’.
+      Textbox supports all character formats (letter, number and symbols)
+      Password must be at least six characters.
+      When user types password then display ‘*’ instead of entered characters.
+      
+     4.3 Acess Main Screen
+       User access the Main screen by clicking in 'Enter' button. [Note: User has a valid  regitered Login and Password]
+       
+     4.4 Button Log in
+       Button 'Log in ' to user access the main screen by clicking the button. [Note: User has a valid  regitered Login and Password]
+       
+       
+       
+       
 
 
