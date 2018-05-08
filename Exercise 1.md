@@ -95,6 +95,7 @@ This document specifies the requirements of the Annotation Tools providing devel
     2.2.6 When the user clicks ‘Register’ button, an e-mail must be sent to the site administrator to validate the details. 
     2.2.7 Upon activation, an e-mail must be sent to the e-mail id provided at the time of registration informing that the id is activated along with the initial (one-time) password for log in.
 
+Email will look like this:
 ![registration](https://user-images.githubusercontent.com/5126039/39733944-6c185814-524b-11e8-9792-72945149e84c.png)
 
 
@@ -106,7 +107,7 @@ This document specifies the requirements of the Annotation Tools providing devel
 ## 4.0 UI mockup
 
 
-Login Screen   
+Login Screen may look like this:  
 ![login](https://user-images.githubusercontent.com/5126039/39731311-59b92bde-523d-11e8-914b-9185329b608b.png)
 
 
@@ -133,7 +134,7 @@ This part of the document inform the controls description to work in each part o
        
 ### 5.4 Button Sing  in
      5.4.1 Button 'Sing in ' to user access the main screen by clicking the button. [Note: User has a valid  regitered Login and Password]
-       
+   Button 'Sing in' may look like this:
    ![sing in](https://user-images.githubusercontent.com/5126039/39734034-d93aecae-524b-11e8-9a0c-19fec934f3d5.png)
 
 ###  5.5 Error Messages
@@ -148,7 +149,7 @@ This part of the document inform the controls description to work in each part o
  ###  5.6 Correct Login
  
         5.6.1 If all informations are correctly the Main Screen is displayed correctly.
-        
+   Main screen will look like this:    
    ![mainscreen](https://user-images.githubusercontent.com/5126039/39733984-9ded35d0-524b-11e8-8d8d-6e5167840d74.png)
 
         
