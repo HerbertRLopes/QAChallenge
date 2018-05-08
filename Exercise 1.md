@@ -60,10 +60,51 @@ It should input the title "Available Batches" for user know the batches they nee
  
  ```
  Example: User can recover the password by email.
+ 
  ```
+=========
 
 
+=========
 
+---
+title: 1.2 Spec out
+description: GWrite the Functional Analysis spec that would be given to a developer for the login/signup page and mechanism.
+author: Herbert Lopes
+
+---
+
+## 1.0 INTRODUCTION
+This document specifies the requirements of the Annotation Tools providing developers and testers with the necessary information for the design and implementation to perform system testing and approval.
+
+
+## 2.0 Requirements - Web
+  
+     2.1 WebSite Home page
+     The web site Home page must be developed to perform the Login in Annotation Tools.
+   
+    2.2 Annotation Tools Registration
+    2.2.1 A Master Admin user will have the capability to register a new user.
+    2.2.2 An admin user profile must be created for the institution Unbabel. 
+    2.2.3 This user will have the admin rights for that particular institution with the capability to set up further users within the organisation. 
+    2.2.4 The registration page must contain at least these below data elements: 		
+
+   
+   2.2.5 When the user fills in the information, it must be validated to ensure no junk data is being input. 
+   2.2.6 When the user clicks ‘Register’ button, an e-mail must be sent to the site administrator to validate the details. 
+   2.2.7 Upon activation, an e-mail must be sent to the e-mail id provided at the time of registration informing that the id is activated along with the initial (one-time) password for log in.
+
+
+## 3.0 System Availability
+
+    It's expected that this service must support 75 users at any given moment and must be able to handle 350 requests per second. The response time must be under 200 ms.
+    
+    
+## 4.0 UI mockup
+
+
+Login Screen   
+![login](https://user-images.githubusercontent.com/5126039/39731311-59b92bde-523d-11e8-914b-9185329b608b.png)
 
 
 
