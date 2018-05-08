@@ -122,6 +122,7 @@ Login Screen
       Textbox supports all character formats (letter, number and symbols)
       Password must be at least six characters.
       When user types password then display ‘*’ instead of entered characters.
+      Checkbox ‘Show Password’. It can be either Select or Unselected. Unselected  –  by default. So, if it is selected, then show password without ‘*’.
       
      4.3 Acess Main Screen
        User access the Main screen by clicking in 'Enter' button. [Note: User has a valid  regitered Login and Password]
@@ -129,7 +130,16 @@ Login Screen
      4.4 Button Log in
        Button 'Log in ' to user access the main screen by clicking the button. [Note: User has a valid  regitered Login and Password]
        
+     4.5 Error Messages
+       If user iforms a incorrect Email a red error message is displayed below the title. [Note: <‘Invalid e-mail >]
        
+     ![errormessage](https://user-images.githubusercontent.com/5126039/39732956-a389303e-5246-11e8-8c26-050c4a6e6f04.png)
+     
+       If user iforms a correct Email with an incorrect Password a red error message is displayed below the title. [Note: <‘Invalid PAssword >]
+       
+       
+       
+
        
        
 
