@@ -113,31 +113,31 @@ Login Screen
 
 This part of the document inform the controls description to work in each part of the Login screen.
     
- ###  5.1 Field E-mail Address
- Textbox with maximum 320 chars [Note: 320 is maximum allowed email length according the spec], empty by default.
- Registered user  – ‘Enter email address’.
- Textbox supports all character formats (letter, number and symbols)
+###  5.1 Field E-mail Address
+     5.1.1 Textbox with maximum 320 chars [Note: 320 is maximum allowed email length according the spec], empty by default.
+     5.1.2 Registered user  – ‘Enter email address’.
+     5.1.3 Textbox supports all character formats (letter, number and symbols)
     
 ###  5.2 Field Password 
- Textbox with maximum 100 chars [Note: 100 is maximum allowed password length according the spec], empty by default.
- Registered user  – ‘Enter Password characters’.
- Textbox supports all character formats (letter, number and symbols).
- Password must be at least six characters.
- When user types password then display ‘*’ instead of entered characters.
- Checkbox ‘Show Password’. It can be either Select or Unselected. Unselected  –  by default. So, if it is selected, then show password without ‘*’.
+    5.2.1 Textbox with maximum 100 chars [Note: 100 is maximum allowed password length according the spec], empty by default.
+    5.2.2 Registered user  – ‘Enter Password characters’.
+    5.2.3 Textbox supports all character formats (letter, number and symbols).
+    5.2.4 Password must be at least six characters.
+    5.2.5 When user types password then display ‘*’ instead of entered characters.
+    5.2.6 Checkbox ‘Show Password’. It can be either Select or Unselected. Unselected  –  by default. So, if it is selected, then show password without ‘*’.
       
 ### 5.3 Acess Main Screen
-User access the Main screen by clicking in 'Enter' button. [Note: User has a valid  regitered Login and Password]
+    5.3.1 User access the Main screen by clicking in 'Enter' button. [Note: User has a valid  regitered Login and Password]
        
-###    5.4 Button Log in
-       Button 'Log in ' to user access the main screen by clicking the button. [Note: User has a valid  regitered Login and Password]
+### 5.4 Button Log in
+     5.4.1 Button 'Log in ' to user access the main screen by clicking the button. [Note: User has a valid  regitered Login and Password]
        
 ###  5.5 Error Messages
- If user iforms a incorrect Email a red error message is displayed below the title. [Note: <‘Invalid e-mail >]
+    5.5.1 If user iforms a incorrect Email a red error message is displayed below the title. [Note: <‘Invalid e-mail >]
        
    ![errormessage](https://user-images.githubusercontent.com/5126039/39732956-a389303e-5246-11e8-8c26-050c4a6e6f04.png)
      
-If user iforms a correct Email with an incorrect Password a red error message is displayed below the title. [Note: <‘Invalid PAssword >]
+    5.5.2 If user iforms a correct Email with an incorrect Password a red error message is displayed below the title. [Note: <‘Invalid PAssword >]
        
        
        
