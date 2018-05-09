@@ -151,7 +151,7 @@ This part of the document inform the controls description to work in each part o
  
         5.6.1 If all informations are correctly the Main Screen is displayed correctly.
    Main screen will look like this:    
-   ![mainscreen](https://user-images.githubusercontent.com/5126039/39733984-9ded35d0-524b-11e8-8d8d-6e5167840d74.png)
+   ![mainscreen](https://user-images.githubusercontent.com/5126039/39733984-9ded35d0-524b-11e8-8d8d-6e5167840d74.png) 
 
         
         
