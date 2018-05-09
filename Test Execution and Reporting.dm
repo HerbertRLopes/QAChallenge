@@ -5,7 +5,7 @@ author: Herbert Lopes
 
 
 ---
-
+=========
 
 ### Login Issues
 
@@ -32,6 +32,7 @@ Expected result:
       Sing in works correctly and main screen is shown with the available tasks.
       
 Attached:
+
   ![singinfail](https://user-images.githubusercontent.com/5126039/39793053-0e661c68-531a-11e8-9ed3-ac1b737c4036.png)
 
 
