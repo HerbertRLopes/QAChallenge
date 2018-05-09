@@ -34,6 +34,9 @@ author: Herbert Lopes
         });
       </script>
       
-     Load the JavaScript api with your sitekey
-     Call grecaptcha.execute on an action or when the page loads
-     Send the token to your backend with the request to verify
+    1 Load the JavaScript api with your sitekey
+    2 Call grecaptcha.execute on an action or when the page loads
+    2 Send the token to your backend with the request to verify
+    
+    
+    ## [02] 
