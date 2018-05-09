@@ -33,3 +33,7 @@ author: Herbert Lopes
           });
         });
       </script>
+      
+     Load the JavaScript api with your sitekey
+     Call grecaptcha.execute on an action or when the page loads
+     Send the token to your backend with the request to verify
