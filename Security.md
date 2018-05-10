@@ -39,4 +39,4 @@ author: Herbert Lopes
     2 Send the token to your backend with the request to verify
     
     
-    ## [02] 
+
