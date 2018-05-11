@@ -11,7 +11,7 @@ author: Herbert Lopes
 ## Steps do Execute the Load Testing
 
  1. Download the Jmeter at: "http://jmeter.apache.org/download_jmeter.cgi";
- 2. Execute Jmeter and Open the Project;
+ 2. Execute Jmeter and Open the Project "QAChallengeTestPlan.jmx";
   ![openproject](https://user-images.githubusercontent.com/5126039/39905000-7e80bcea-54b1-11e8-989c-b95b822bca0a.png)
 
  3. Execute the tests with 75 users;
