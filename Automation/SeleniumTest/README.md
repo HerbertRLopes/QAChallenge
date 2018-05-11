@@ -1,3 +1,4 @@
+---
 title: Automation
 description: Choose a platform/framework of your liking (as long as it is free or open source) and automate the following:
 author: Herbert Lopes
